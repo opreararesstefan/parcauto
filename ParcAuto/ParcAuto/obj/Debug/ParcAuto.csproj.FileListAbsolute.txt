@@ -1,0 +1,13 @@
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\bin\Debug\ParcAuto.exe.config
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\bin\Debug\ParcAuto.exe
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\bin\Debug\ParcAuto.pdb
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.Components.AutosDialog.resources
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.Components.ReviziiDialog.resources
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.Components.SoferiDialog.resources
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.ParcAuto.resources
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.Properties.Resources.resources
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.csproj.GenerateResource.cache
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.csproj.CoreCompileInputs.cache
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.exe
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.pdb
+C:\Workspace\PRO\ParcAuto\ParcAuto\ParcAuto\obj\Debug\ParcAuto.csprojAssemblyReference.cache
